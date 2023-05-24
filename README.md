@@ -3,6 +3,9 @@
 ## Introduction:
 Deployment on the cloud has revolutionized the way businesses host and manage their applications and infrastructure. With cloud computing services like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), organizations can leverage numerous benefits that traditional on-premises deployments often struggle to provide. This essay explores the concept of deployment on the cloud and the wide-ranging benefits it offers to businesses.
 
+![cloud1](https://github.com/Abla-horchi862/Deployment_Article/assets/61522624/be383183-0658-495d-9df2-e53fafec7fef)
+
+
 ### Scalability and Elasticity:
 Cloud deployment enables businesses to easily scale their resources up or down based on demand. Whether it's an increase in website traffic, sudden spikes in data processing, or the need to handle more concurrent users, cloud platforms offer elasticity, allowing organizations to dynamically allocate resources to meet varying workloads. This scalability eliminates the need for upfront infrastructure investments and ensures optimal performance and responsiveness during peak periods.
 
